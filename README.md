@@ -1,4 +1,4 @@
-Apple Goes Green: Tracking the Tech Giant's Carbon Footprint
+                       Apple Goes Green: Tracking the Tech Giant's Carbon Footprint
 
 ![Maven Environmental Challenge](https://github.com/Rbhavika17/MavenEnvironmentChallenge/assets/125361905/e5cc905e-8ca8-4472-a761-79beab437b17)
 
