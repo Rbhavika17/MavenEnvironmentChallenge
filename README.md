@@ -1,14 +1,16 @@
 Apple Goes Green: Tracking the Tech Giant's Carbon Footprint
 
+![Apple Goes Green: Tracking the Tech Giant's Carbon Footprint](Maven Environment Challenge.png)
+
 
 Welcome to the "Apple Goes Green" project, where we closely examine Apple Inc.'s remarkable journey in reducing its greenhouse gas emissions and its commitment to achieving carbon neutrality by 2030. This repository provides insights into Apple's progress and strategies to reduce its environmental impact.
 Table of Contents
 
     Objective
     Analysis
-        Greenhouse Gas Emissions
-        Carbon Footprint by Product
-        Carbon Removals
+    Greenhouse Gas Emissions
+    Carbon Footprint by Product
+    Carbon Removals
     Conclusion
 
 Objective
@@ -17,15 +19,15 @@ Apple's objective is clear and ambitious: to significantly reduce its greenhouse
 Analysis
 Greenhouse Gas Emissions
 
-    Impressive Reduction: Apple has made remarkable progress in reducing its greenhouse gas emissions. From 2015 to 2022, the company achieved a 47% reduction in its emissions.
+Impressive Reduction: Apple has made remarkable progress in reducing its greenhouse gas emissions. From 2015 to 2022, the company achieved a 47% reduction in its emissions.
 
-    Product Lifecycle Focus: Apple has identified that the largest source of its emissions comes from its product lifecycle, accounting for 75% of its total emissions. This recognition has led to focused efforts to minimize this substantial carbon footprint.
+Product Lifecycle Focus: Apple has identified that the largest source of its emissions comes from its product lifecycle, accounting for 75% of its total emissions. This recognition has led to focused efforts to minimize this substantial carbon footprint.
 
-    Corporate Operations: The company has also made significant strides in its corporate operations, with emissions decreasing by 70% since 2015. This showcases Apple's commitment to reducing emissions across all aspects of its business.
+Corporate Operations: The company has also made significant strides in its corporate operations, with emissions decreasing by 70% since 2015. This showcases Apple's commitment to reducing emissions across all aspects of its business.
 
 Carbon Footprint by Product
 
-    iPhone Dominance: Among Apple's product lineup, the iPhone stands out with the largest carbon footprint, contributing to 40% of the company's product lifecycle emissions.
+iPhone Dominance: Among Apple's product lineup, the iPhone stands out with the largest carbon footprint, contributing to 40% of the company's product lifecycle emissions.
 
     Ongoing Improvements: Apple's dedication to reducing the carbon footprint of its products is evident. For instance, the carbon footprint of the iPhone 14 has been reduced by 10% compared to its predecessor, the iPhone 13. This exemplifies Apple's ongoing efforts to enhance the sustainability of its products.
 
