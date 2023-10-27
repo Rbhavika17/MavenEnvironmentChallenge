@@ -1,6 +1,6 @@
 Apple Goes Green: Tracking the Tech Giant's Carbon Footprint
 
-![Apple Goes Green: Tracking the Tech Giant's Carbon Footprint](Maven Environment Challenge.png)
+![Maven Environmental Challenge](https://github.com/Rbhavika17/MavenEnvironmentChallenge/assets/125361905/e5cc905e-8ca8-4472-a761-79beab437b17)
 
 
 Welcome to the "Apple Goes Green" project, where we closely examine Apple Inc.'s remarkable journey in reducing its greenhouse gas emissions and its commitment to achieving carbon neutrality by 2030. This repository provides insights into Apple's progress and strategies to reduce its environmental impact.
